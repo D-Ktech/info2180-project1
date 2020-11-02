@@ -9,3 +9,28 @@ body {
     max-width: 960px;
     width: 100%;
 }
+
+head {
+    text-align: left;
+    }
+
+    ul{ 
+    list-style-type: none;
+    text-align: right;
+    padding-top: 0;
+    margin: 0;
+    }
+
+    ul li{
+      display: inline;
+    }
+
+.overview-hero-image{
+    float: left;
+    display: inline;
+}
+
+.overview-hero-text{
+    display: inline;
+}
+
